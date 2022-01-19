@@ -2,6 +2,7 @@ h1{
     color: rgb(247, 43, 43);
     background-color: yellow;
     width: 250px;
+    text-align: center;
 }
 table{
     background-color: rgb(169, 250, 162);
@@ -15,4 +16,11 @@ table{
 .new-color{
     background-color: rgb(250, 167, 218);
     color: rgb(0, 68, 255);
+}
+h2{
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 122, 122);
+    font-family: italic;
+    width: 230px;
+
 }
